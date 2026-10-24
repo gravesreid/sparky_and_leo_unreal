@@ -1,0 +1,25 @@
+THE ADVENTURES OF SPARKY AND LEO
+================================
+
+1. Unzip this whole folder somewhere (e.g. your Desktop). Don't run it from inside the zip.
+2. Double-click SparkyLeo.exe.
+   - If Windows says "Windows protected your PC", click "More info", then "Run anyway"
+     (it's a home-made game, so it isn't signed).
+   - If it complains about missing DLLs or DirectX, run Engine\Extras\Redist\en-us\UEPrereqSetup_x64.exe
+     once, then try again.
+3. Alt+Enter switches between a window and fullscreen.
+
+CONTROLS
+                 Keyboard + mouse        Keyboard only*          Xbox-style controller
+  Move           WASD / arrows           WASD                    Left stick
+  Jump           Space (again: flip)     Space                   A
+  Swipe / talk   J, F or left click      J or F                  X
+  Ground pound   Shift in the air        Shift in the air        LT / RT in the air
+  Camera         Mouse, Q/E, wheel       Arrows, Q/E, I/O zoom   Right stick
+  Recentre       Tab or L                Tab or L                LB / RB
+  Pause          Enter / Esc             Enter / Esc             Start
+
+  * Choose CONTROLS: KEYBOARD ONLY on the title screen or pause menu.
+
+Tips: jump at the fuzzy pink velcro walls to stick to them, land on enemies' heads, and
+Sparky has nine lives. He's a cat.

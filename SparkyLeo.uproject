@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "E5ECE0DB-D57F-4904-9E03-1E7581B3F5FC",
+	"Category": "",
+	"Description": "The Adventures of Sparky and Leo: an N64-style 3D platformer",
+	"Modules": [
+		{
+			"Name": "SparkyLeo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{ "Name": "ProceduralMeshComponent", "Enabled": true },
+		{ "Name": "PythonScriptPlugin", "Enabled": true, "TargetAllowList": [ "Editor" ] },
+		{ "Name": "EditorScriptingUtilities", "Enabled": true, "TargetAllowList": [ "Editor" ] },
+		{ "Name": "MegascansPlugin", "Enabled": false },
+		{ "Name": "Bridge", "Enabled": false }
+	]
+}
